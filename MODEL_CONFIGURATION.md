@@ -1,7 +1,6 @@
 # Model Configuration and Hyperparameters
 
-This document provides a comprehensive overview of the model architecture, hyperparameters, and training configuration used for the Transformer-based time series forecasting system.
-
+Here's a breakdown of how I configured the Transformer model for this project, including all the hyperparameters and architecture choices I made.
 ## Model Architecture Summary
 
 ### Transformer Model Specifications
@@ -43,8 +42,7 @@ This document provides a comprehensive overview of the model architecture, hyper
 
 ## Training Configuration
 
-### Optimization Settings
-
+### How I Set Up Training
 #### Primary Optimizer (Transformer)
 - Algorithm: AdamW
 - Learning rate: 0.0001
