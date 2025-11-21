@@ -272,4 +272,4 @@ For questions or feedback about this project, please open an issue on GitHub.
 ---
 
 **Project developed for:** Time Series Forecasting with Deep Learning
-**Last updated:** November 2024
+**Last updated:** November 2025
