@@ -177,4 +177,4 @@ The Transformer-based architecture demonstrates superior performance for S&P 500
 
 **Report Generated**: November 20, 2024  
 **Project**: Advanced Time Series Forecasting with Transformer Neural Networks  
-**Author**: Automated ML Pipeline
+**Author**: rjshxyz
